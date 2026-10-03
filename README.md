@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of dotronglong/flarum-hide-me.** Not for installation: use [Packagist](https://packagist.org/packages/dotronglong/flarum-hide-me) or the [upstream repository](https://github.com/dotronglong/flarum-hide-me).
 
-**0** versions archived · Latest: [`v0.0.4`](https://github.com/flarchive/dotronglong-flarum-hide-me/tree/archive/v0.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`v0.0.4`](https://github.com/flarchive/dotronglong-flarum-hide-me/tree/archive/v0.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2019-12-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dotronglong-flarum-hide-me/tree/archive/v0.0.1) |
+| `v0.0.2` | 2019-12-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dotronglong-flarum-hide-me/tree/archive/v0.0.2) |
+| `v0.0.3` | 2019-12-24 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dotronglong-flarum-hide-me/tree/archive/v0.0.3) |
+| `v0.0.4` | 2020-01-12 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dotronglong-flarum-hide-me/tree/archive/v0.0.4) |
 
 Catalog entry: [packages/dotronglong-flarum-hide-me.json](https://github.com/flarchive/archive-index/blob/main/packages/dotronglong-flarum-hide-me.json)
 
